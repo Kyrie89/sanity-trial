@@ -1,1 +1,1 @@
-sanity-trial-studio
+sanitycheck-studio
